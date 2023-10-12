@@ -1,4 +1,3 @@
-/* Estilos gerais */
 body {
     font-family: Times;
     margin: 1;
@@ -6,7 +5,8 @@ body {
     background-image: url(amarelo.jpg);
     background-repeat: no-repeat;
     background-size: 4080px 3080px;
-   max-width: 1068px 
+   max-width: 9908px 
+   
         /* Estilos para telas menores, como smartphones */
     
 }
@@ -16,6 +16,7 @@ header {
     color: rgb(255, 255, 255);
     /*valores superior e inferior, seguido de valores da direita e esquerda.*/
     padding: 10px 0;
+    
 ;
     text-align: center;
 }
@@ -55,7 +56,7 @@ section h2 {
     background-color: #b70d0d;
     border: 10px solid rgba(0, 0, 0, 0.896);
     padding: 1px;
-    margin: 100px;
+    margin: 110px;
     border-radius: 20px;
 }
 
@@ -89,3 +90,4 @@ p{
     width: 0px;
     height: 40px;
 }
+
