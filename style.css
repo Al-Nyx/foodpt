@@ -18,6 +18,23 @@ header {
     padding: 10px 0;
 ;
     text-align: center;
+    img {
+    max-width: 100%;
+    height: auto;
+}
+Teste em Dispositivos Móveis: Sempre teste seu site em dispositivos móveis reais e em emuladores para garantir que ele funcione corretamente em várias resoluções de tela.
+
+Use Frameworks Responsivos: Considere o uso de frameworks responsivos, como Bootstrap, Foundation, ou outros, que oferecem componentes e estilos prontos para dispositivos móveis.
+
+Redirecionamento de URL: Se você tiver um site que ofereça uma versão específica para dispositivos móveis, pode implementar redirecionamento de URL para que os usuários sejam direcionados automaticamente para a versão correta com base no tipo de dispositivo que estão usando.
+
+Lembre-se de que a criação de um site responsivo não é apenas sobre resolução de tela, mas também sobre a adaptabilidade a diferentes tamanhos de tela e dispositivos. Seguindo essas diretrizes, você pode criar um site que ofereça uma boa experiência de usuário em uma variedade de dispositivos.
+
+
+
+
+
+
 }
 
 header h1 {
