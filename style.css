@@ -6,6 +6,9 @@ body {
     background-image: url(amarelo.jpg);
     background-repeat: no-repeat;
     background-size: 4080px 3080px;
+    @media (max-width: 768px) {
+    /* Estilos para telas menores, como smartphones */
+}
 }
 /* Estilos do cabeçalho */
 header {
